@@ -1,5 +1,5 @@
-# Toy example of Besag spatial interpolation ------------------------------
-# Tommy Irons, 04/2023, PhD Mathematics @ University of Exeter.
+# Toy example of `Besag` spatial interpolation for spatial point data -----
+# Tommy Irons, 04/2023, PhD @ University of Exeter.
 
 # This script simulates normally distributed data as if they were point data
 # observed at select locations in a spatial field. The object of the script
